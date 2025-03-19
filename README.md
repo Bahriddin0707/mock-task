@@ -13,12 +13,24 @@ pnpm dev
 bun dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## Task details:
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+Technologies:
+
+Next.js
+Tailwind CSS
+
+Requirements:
+
+Implement this mock website based on image provided as close to image as you can.
+Make website Responsive and Adaptive. 
+See Desktop resolution picture and mobile screen size picture that should be applied if screen width is less then 600px.
+Site should stretch its width to always cover the entire width of the screen and all elements should shrink proportionally when you resize browser
+If you can make some elements interactive (like menu or carousel) - do it, but make sure that your design of the site is as close as on image before doing it (deadlines are strict)
+ 
 
 
-## Screenshot
+## Screenshot of Implementation
  ![image](https://github.com/user-attachments/assets/d5e285da-ffce-41be-b240-ef5c7b8345d1)
 
 
