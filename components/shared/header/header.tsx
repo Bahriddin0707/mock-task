@@ -12,7 +12,7 @@ export default function Header() {
             </Link>
           </div>
 
-          <nav className="desktop-menu hidden xs:flex space-x-8">
+          <nav className="desktop-menu hidden space-x-8">
             <Link href="/" className="text-white hover:text-gray-300">
               Home
             </Link>
