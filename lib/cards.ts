@@ -1,0 +1,42 @@
+export const cards = [
+  {
+    icon: "/images/equip-1.svg",
+    title: "MUSCLES BUILDING",
+    description: "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+    linkText: "LEARN MORE",
+    backgroundColor: "bg-gray-800",
+    textColor: "text-white",
+  },
+  {
+    icon: "/images/equip-2.png",
+    title: "MUSCLES BUILDING",
+    description: "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+    linkText: "LEARN MORE",
+    backgroundColor: "bg-gray-800",
+    textColor: "text-white",
+  },
+  {
+    icon: "/images/equip-3.png",
+    title: "MUSCLES BUILDING",
+    description: "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+    linkText: "LEARN MORE",
+    backgroundColor: "bg-gray-800",
+    textColor: "text-white",
+  },
+  {
+    icon: "/images/equip-4.svg",
+    title: "MUSCLES BUILDING",
+    description: "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+    linkText: "LEARN MORE",
+    backgroundColor: "bg-gray-800",
+    textColor: "text-white",
+  },
+  {
+    icon: "/images/equip-2.png",
+    title: "MUSCLES BUILDING",
+    description: "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+    linkText: "LEARN MORE",
+    backgroundColor: "bg-gray-800",
+    textColor: "text-white",
+  },
+];
