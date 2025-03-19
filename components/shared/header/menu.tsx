@@ -24,7 +24,7 @@ export default function MobileMenu() {
         </div>
 
         <button
-          className="text-white hover:text-gray-300 md:hidden"
+          className="mobile-menu text-white hover:text-gray-300 md:hidden"
           onClick={() => setIsOpen(!isOpen)}
         >
           {isOpen ? <FaTimes size={24} /> : <FaBars size={24} />}
